@@ -1,0 +1,2 @@
+# MiniMFC
+minimum MFC project
