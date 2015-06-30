@@ -1,4 +1,6 @@
 # MiniMFC
 minimum MFC project
 
-- MainLoop 
+- Dialog Base
+- MainLoop with PeekMessage() function
+ 
